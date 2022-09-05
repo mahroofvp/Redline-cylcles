@@ -1,0 +1,67 @@
+html,body{
+  overflow: hidden;
+}
+.img{
+    width: 90px;
+}
+.img{
+    width: 120px;
+}
+.img{
+    width: 120px;
+}
+.navbar{
+    width: 100%;
+    top: 0%;
+  
+    
+}
+.nav1{
+   
+    height: 62px;
+
+
+
+}
+#nav2{
+    position: fixed;
+    margin-top: 65px;
+    
+}
+.navbar{
+    height: 90px;
+   
+    
+}
+#redline{
+    height: 26px;
+    font-size: 1rem;
+    position: fixed;
+    margin-top: 90px;
+    z-index: -1;
+
+}
+#picbar{
+   
+    height: 7cm;
+
+
+  padding-left: 627px;
+  margin-top: 68px;
+  padding-top: 79px
+
+}
+.col{
+    z-index: -99;
+}
+.btn{
+    border-left: hidden;
+  margin-right: 10px;
+
+  
+}
+
+
+
+
+
